@@ -96,7 +96,7 @@ colors={[COLORS.secundary,  COLORS.primary,COLORS.black,COLORS.white]}
         fontSize:25,
         fontWeight:500,
         color:COLORS.white
-      }}>Conectando Con Tu MasCota</Text>
+      }}>Conectando Con Tu MasCotas</Text>
 <CustomButton2
   title='Registrate'
   onPress={()=>navigation.navigate("SignUp")}
